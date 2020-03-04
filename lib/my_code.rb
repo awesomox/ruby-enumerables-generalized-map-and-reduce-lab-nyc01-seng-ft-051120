@@ -1,1 +1,4 @@
-def map
+def map(array)
+  yield(array)
+end
+
