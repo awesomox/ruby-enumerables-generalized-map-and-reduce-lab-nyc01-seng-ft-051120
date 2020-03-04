@@ -6,7 +6,6 @@ def map(array)
     row_index += 1 
   end
   yield(new_array)
-  new_array
 end
 
 
